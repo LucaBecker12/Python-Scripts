@@ -3,7 +3,7 @@ import requests
 import json
 import os
 
-KEY = "c1db9b3f7524ee7e3fdb4b3885fc3b55"
+KEY = "api_key"
 FILE = "wheater.json"
 
 def loadCities():
