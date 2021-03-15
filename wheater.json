@@ -1,0 +1,27 @@
+{
+    "Nuremberg": {
+        "temp": 5.47,
+        "wind": 6.69,
+        "humidity": 87
+    },
+    "Munich": {
+        "temp": 3.42,
+        "wind": 1.34,
+        "humidity": 93
+    },
+    "London": {
+        "temp": 9.45,
+        "wind": 3.6,
+        "humidity": 76
+    },
+    "Tokyo": {
+        "temp": 12.57,
+        "wind": 4.12,
+        "humidity": 30
+    },
+    "Cambridge": {
+        "temp": -7.67,
+        "wind": 3.09,
+        "humidity": 45
+    }
+}
